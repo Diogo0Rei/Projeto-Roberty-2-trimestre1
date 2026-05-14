@@ -66,3 +66,10 @@ display: block;
 background-color: var(--botao-ativo);
 border-bottom: 4px solid var(--verde);
 }
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
