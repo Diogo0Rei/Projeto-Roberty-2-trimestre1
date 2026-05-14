@@ -58,5 +58,6 @@ body{
 .botoes {
     display: block;
 }
-
-
+.ativo{
+    background-color: var (--botao-ativo);
+boder-bottom: 4 px solid var (--verde);
